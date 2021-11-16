@@ -1,0 +1,31 @@
+{
+  "name": "react-native-scratch",
+  "version": "1.2.1",
+  "description": "Scratch view for react native",
+  "summary": "Fork scratch view for react native",
+  "homepage": "https://github.com/ConduitMobileRND/react-native-scratch.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConduitMobileRND/react-native-scratch"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-scratch",
+    "react-native-scratch-view",
+    "react-native-scratch-card",
+    "react-native-scratch-image",
+    "scratch",
+    "scratch-card",
+    "scratch-view",
+    "scratch-image"
+  ],
+  "author": "Roy Ben-Sasson",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "0.51.0"
+  }
+}
