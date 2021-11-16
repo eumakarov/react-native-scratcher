@@ -4,7 +4,7 @@ Locally stored version of the original package (https://github.com/ConduitMobile
 
 ## Getting started
 
-TODO: post module to npm
+```npm i react-native-scratcher```
 
 ### Automatic installation
 
