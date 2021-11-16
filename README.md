@@ -1,5 +1,6 @@
-
 # react-native-scratch
+
+Locally stored version of the original package (https://github.com/ConduitMobileRND/react-native-scratch) with some updates to ensure it matches our needs
 
 ## Getting started
 
@@ -13,6 +14,7 @@ Starting from react-native version >= 0.60 package is linked automatically, no c
 
 The ScratchView will fill its containing view and cover all other content untill you scratch it
 Just put it as the last component in your view
+
 ```javascript
 import React, { Component } from 'react';
 import { View } from 'react-native';

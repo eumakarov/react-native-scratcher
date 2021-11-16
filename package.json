@@ -1,16 +1,16 @@
 {
-  "name": "react-native-scratch",
-  "version": "1.2.1",
+  "name": "react-native-scratcher",
+  "version": "1.0.0",
   "description": "Scratch view for react native",
-  "summary": "Fork scratch view for react native",
-  "homepage": "https://github.com/ConduitMobileRND/react-native-scratch.git",
+  "summary": "Forked scratch view for react-native. All credit goes to its original creator",
+  "homepage": "https://github.com/eumakarov/react-native-scratcher",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ConduitMobileRND/react-native-scratch"
+    "url": "https://github.com/eumakarov/react-native-scratcher"
   },
   "keywords": [
     "react-native",
@@ -26,6 +26,6 @@
   "author": "Roy Ben-Sasson",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "0.51.0"
+    "react-native": "0.63.4"
   }
 }
