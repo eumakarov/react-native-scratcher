@@ -1,6 +1,6 @@
 {
   "name": "react-native-scratcher",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Scratch view for react native",
   "summary": "Forked scratch view for react-native. All credit goes to its original creator",
   "homepage": "https://github.com/eumakarov/react-native-scratcher",
