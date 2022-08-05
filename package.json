@@ -30,5 +30,6 @@
   },
   "bugs": {
     "url": "https://github.com/eumakarov/react-native-scratcher/issues"
-  }
+  },
+  "types": "./index.d.ts"
 }
